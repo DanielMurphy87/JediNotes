@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "JediNotes": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:3752;http://localhost:3753"
+    }
+  }
+}
